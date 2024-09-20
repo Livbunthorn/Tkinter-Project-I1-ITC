@@ -1,6 +1,7 @@
 from tkinter import *
 import yt_dlp 
 from tkinter import messagebox, filedialog
+
 def download_video():
     url = url_entry.get()
     if not url:
@@ -29,6 +30,7 @@ def download_video():
 
 win = Tk()
 win.title("YouTube Video Downloader")
+win.geometry("400x300")
 
 # Create a label and entry for the URL
 url_label = Label(win, text="YouTube URL:")
