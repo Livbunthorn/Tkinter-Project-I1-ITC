@@ -2,11 +2,15 @@
 
 This is a simple Python project using Tkinter that allows users to download videos from YouTube by providing a URL. The application uses the `yt-dlp` library to handle downloading and saves the video to a location chosen by the user.
 
+
 ## Features
 
 - Download YouTube videos by providing a URL.
 - Allows users to choose the download location.
 - interface built using Tkinter.
+
+  https://github.com/user-attachments/assets/7809e7f1-47d8-47fe-abef-c473386d6818
+
 
 ## Requirements
 
