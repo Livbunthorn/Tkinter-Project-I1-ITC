@@ -43,3 +43,15 @@ The `yt-dlp` library is required to download YouTube videos. You can install it 
     py -m pip install yt-dlp
 
 
+## Usage
+1. Run the code.
+2. Enter the URL of the YouTube video you want to download.
+3. Choose the directory where you'd like to save the downloaded video.
+4. Click "Download Video."
+5. The video will be downloaded, and you'll receive a success message.
+
+## Troubleshooting
+If the download fails, check the following:
+- Ensure the YouTube URL is correct.
+- Check if "yt-dlp" is installed properly using "yt-dlp --version".
+- Ensure you have an active internet connection.
